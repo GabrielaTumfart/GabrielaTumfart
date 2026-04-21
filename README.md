@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![snake](https://github.com/GabrielaTumfart/GabrielaTumfart/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+Hallo Jessica! 🥰
+
+![snake](https://github.com/GabrielaTumfart/GabrielaTumfart/blob/output/github-contribution-grid-snake-dark.svg)
+
