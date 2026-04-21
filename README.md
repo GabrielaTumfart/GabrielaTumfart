@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![three snakes](https://github.com/GabrielaTumfart/GabrielaTumfart/raw/main/three-snakes.svg)
+
 <!--
 **GabrielaTumfart/GabrielaTumfart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
