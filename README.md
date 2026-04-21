@@ -1,4 +1,4 @@
-## Hallo Jessica! 🥰
+##😻😸😽
 
 ![three snakes](https://github.com/GabrielaTumfart/GabrielaTumfart/raw/main/three-snakes.svg)
 
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hallo Jessica! 🥰
 
 ![snake](https://github.com/GabrielaTumfart/GabrielaTumfart/blob/output/github-contribution-grid-snake-dark.svg)
 
